@@ -10,4 +10,6 @@
  |___|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|___| 
 (_____)                                   (_____)
 
+Même chose que l'ancien, va lire le DLU v1 ( celui de base) pour plus d'infos discord: enfant2pute
+
 Simple.
