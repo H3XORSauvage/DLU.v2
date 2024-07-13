@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:f3a8b4a7a6d74589f91f9c63c58171dc1500f732", "xbl:2535429589555810", "live:914799717522511", "discord:1061902163053391993", "license2:f3a8b4a7a6d74589f91f9c63c58171dc1500f732"], "name": "exh0sted", "ping": 10}
