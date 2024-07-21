@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 2, "identifiers": ["steam:11000010ad85af4", "license:59f59db28406e612eaf5256ef156e6070dcc8587", "xbl:2535416380282879", "live:1055521459073755", "discord:276704610175942656", "license2:59f59db28406e612eaf5256ef156e6070dcc8587"], "name": "Kurai Atsumi", "ping": 37}
