@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:92a781ac8652d0f730ef77ce6e3f7b35502a97c9", "xbl:2535443838341880", "live:985154812462656", "discord:990895567645310987", "fivem:3732755", "license2:92a781ac8652d0f730ef77ce6e3f7b35502a97c9"], "name": "Progos", "ping": 18}
