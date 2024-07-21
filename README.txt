@@ -10,6 +10,8 @@
  |___|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|___| 
 (_____)                                   (_____)
 
-Même chose que l'ancien, va lire le DLU v1 ( celui de base) pour plus d'infos discord: enfant2pute
+Même chose que l'ancien, mais maintenant il peut aussi lire les .Sql et .Csv.
+
+va lire le DLU v1 ( celui de base) et aussi pour plus d'infos discord: enfant2pute
 
 Simple.
