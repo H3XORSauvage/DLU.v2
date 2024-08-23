@@ -1,0 +1,924 @@
+{
+    "Pseudo": "~u~TrayTray",
+    "Identifiers": "Discord ID:\ndiscord:980204414189076550\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:14449605\nLicence ID:\nlicense:39e9d497c56627cb481b49d1daaec57f160f9da1"
+}
+{
+    "Pseudo": "Angel",
+    "Identifiers": "Discord ID:\ndiscord:1229586297950310400\nXbox Live ID:\nxbl:2535418004017764\nMicrosoft Live ID:\nlive:844425711590475\nFiveM ID:\nN/A\nLicence ID:\nlicense:791c2862c2fc6a835a0eae0b5d6868e732a7592c"
+}
+{
+    "Pseudo": "Ap",
+    "Identifiers": "Discord ID:\ndiscord:1223331994654478538\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:11927922\nLicence ID:\nlicense:4d65e4a7bca331a4a004f237ae852909851a4b27"
+}
+{
+    "Pseudo": "kapo🎱",
+    "Identifiers": "Discord ID:\ndiscord:643987727427305502\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:8377550\nLicence ID:\nlicense:b7db86685ccaa2cadee8c03c052b417cef5af480"
+}
+{
+    "Pseudo": "mrgunaman",
+    "Identifiers": "Discord ID:\ndiscord:319334431959678988\nXbox Live ID:\nxbl:2535455902281874\nMicrosoft Live ID:\nlive:914801259397553\nFiveM ID:\nfivem:255377\nLicence ID:\nlicense:e41f7023e36cff605a8de86dff8c1bdaa12bfab8"
+}
+{
+    "Pseudo": "~u~2",
+    "Identifiers": "Discord ID:\ndiscord:1187205243163918356\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:11078152\nLicence ID:\nlicense:fc3b3e6ba9af731f1ec5694b18191898fb055947"
+}
+{
+    "Pseudo": "Azazel",
+    "Identifiers": "Discord ID:\ndiscord:256259270939508737\nXbox Live ID:\nxbl:2535448941074792\nMicrosoft Live ID:\nlive:914798490500267\nFiveM ID:\nN/A\nLicence ID:\nlicense:1095ecfc4098e7415988dab6be478a2141d86d42"
+}
+{
+    "Pseudo": "~r~Tatted~g~herfav",
+    "Identifiers": "Discord ID:\ndiscord:1110488888344064030\nXbox Live ID:\nxbl:2535428923773392\nMicrosoft Live ID:\nlive:844426180884559\nFiveM ID:\nfivem:12913308\nLicence ID:\nlicense:770cb56cb7e0dfc1387fe49a5668c9f64854686e"
+}
+{
+    "Pseudo": "~p~ DOMO",
+    "Identifiers": "Discord ID:\ndiscord:1245892540553494575\nXbox Live ID:\nxbl:2535418868123525\nMicrosoft Live ID:\nlive:914798809442611\nFiveM ID:\nfivem:14263855\nLicence ID:\nlicense:f2cef57e42404ccc3e45ef4e080b478213ccbdb4"
+}
+{
+    "Pseudo": "john",
+    "Identifiers": "Discord ID:\ndiscord:1165803349711532094\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:844427060549846\nFiveM ID:\nfivem:12366954\nLicence ID:\nlicense:4f1817136742bc3e00e53fab31ae4981ac1a9eee"
+}
+{
+    "Pseudo": "Wocky",
+    "Identifiers": "Discord ID:\ndiscord:533073735620493312\nXbox Live ID:\nxbl:2535446569456992\nMicrosoft Live ID:\nlive:914798649208954\nFiveM ID:\nfivem:9104097\nLicence ID:\nlicense:1df2c1e002bcb1ff7ea645322f872acabf8d8334"
+}
+{
+    "Pseudo": "REAKひ",
+    "Identifiers": "Discord ID:\ndiscord:728198640593797130\nXbox Live ID:\nxbl:2535462273155321\nMicrosoft Live ID:\nlive:844425710849501\nFiveM ID:\nfivem:13908125\nLicence ID:\nlicense:079a1c999853935e02b9fcf6d9b1ab915569e38a"
+}
+{
+    "Pseudo": "~r~ Queenie's son🥽",
+    "Identifiers": "Discord ID:\ndiscord:1230754769237184563\nXbox Live ID:\nxbl:2535439735055805\nMicrosoft Live ID:\nlive:985155944235867\nFiveM ID:\nN/A\nLicence ID:\nlicense:f466b001af1bf1d9e07a85d3c5bce4255bbef608"
+}
+{
+    "Pseudo": "🔫  ~r~Jacob 🔫",
+    "Identifiers": "Discord ID:\ndiscord:1246170823346360361\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:1657566\nLicence ID:\nlicense:49346c2a35b034deeb09bb1ba6ef5ac06a165340"
+}
+{
+    "Pseudo": "~h~Kam~h~",
+    "Identifiers": "Discord ID:\ndiscord:827664258976186439\nXbox Live ID:\nxbl:2535413721082714\nMicrosoft Live ID:\nlive:914799077103708\nFiveM ID:\nfivem:12586143\nLicence ID:\nlicense:a2c1e039d6d3e2d060c75ce2f70503be6b6a0a1d"
+}
+{
+    "Pseudo": "kpp",
+    "Identifiers": "Discord ID:\ndiscord:1230275137249480755\nXbox Live ID:\nxbl:2535448929709924\nMicrosoft Live ID:\nlive:844425376464528\nFiveM ID:\nfivem:10729580\nLicence ID:\nlicense:b80994f8f6220fb0e2a1999123e75a991c5a27ec"
+}
+{
+    "Pseudo": "~u~certified~h~~w~hater",
+    "Identifiers": "Discord ID:\ndiscord:975148882835152957\nXbox Live ID:\nxbl:2535446673833059\nMicrosoft Live ID:\nlive:1055519179505320\nFiveM ID:\nfivem:13492171\nLicence ID:\nlicense:d43b183d11fbe19f10f9db003db824cf3337cc4e"
+}
+{
+    "Pseudo": "AMBSiiTCHY",
+    "Identifiers": "Discord ID:\ndiscord:1263527908899553432\nXbox Live ID:\nxbl:2535427428268470\nMicrosoft Live ID:\nlive:844426957552395\nFiveM ID:\nfivem:14632148\nLicence ID:\nlicense:940f90e5eba01fa1081e83fbe956272846d66c7a"
+}
+{
+    "Pseudo": "~italic~~w~b....",
+    "Identifiers": "Discord ID:\ndiscord:664378016847101982\nXbox Live ID:\nxbl:2535426120981351\nMicrosoft Live ID:\nlive:914799475702295\nFiveM ID:\nfivem:13535751\nLicence ID:\nlicense:d58f70a0c1bbd84104bf8a44e4b4ff23bf2da4e9"
+}
+{
+    "Pseudo": "𝓲𝓬𝓮𝔂",
+    "Identifiers": "Discord ID:\ndiscord:805868707439968346\nXbox Live ID:\nxbl:2535418167772186\nMicrosoft Live ID:\nlive:914799412256595\nFiveM ID:\nN/A\nLicence ID:\nlicense:e61e7e3de52fe8ff949b0ddb91a4652765fb072e"
+}
+{
+    "Pseudo": "yemme",
+    "Identifiers": "Discord ID:\ndiscord:396394909243932673\nXbox Live ID:\nxbl:2535436012625418\nMicrosoft Live ID:\nlive:985154635386377\nFiveM ID:\nfivem:12870952\nLicence ID:\nlicense:69b906794c5fa752b17e8f2d0b51e9c50f087da1"
+}
+{
+    "Pseudo": "sethcopen972",
+    "Identifiers": "Discord ID:\ndiscord:1270098834013290497\nXbox Live ID:\nxbl:2535466593839233\nMicrosoft Live ID:\nlive:1899947207386535\nFiveM ID:\nfivem:11094665\nLicence ID:\nlicense:9a23c6ba06a8cf997ae1968d764648d1a5434225"
+}
+{
+    "Pseudo": "Reading T-1 Class 4-8-4",
+    "Identifiers": "Discord ID:\ndiscord:327184590534082560\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:1763372\nLicence ID:\nlicense:46f93f0624b36f9821a22381273924c9edb67f99"
+}
+{
+    "Pseudo": "explicit",
+    "Identifiers": "Discord ID:\ndiscord:1248009817033801782\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:985155827626903\nFiveM ID:\nfivem:14317856\nLicence ID:\nlicense:5546fe3437ea513ea2297485980498eb33672b3b"
+}
+{
+    "Pseudo": "sttriggz",
+    "Identifiers": "Discord ID:\ndiscord:482325206732505101\nXbox Live ID:\nxbl:2535443235908768\nMicrosoft Live ID:\nlive:844428545914942\nFiveM ID:\nfivem:14053263\nLicence ID:\nlicense:cfff442879fb7ce7e34e2949fe3250a0ad06f31a"
+}
+{
+    "Pseudo": "~r~R~r~o~r~s~r~e💕🌹",
+    "Identifiers": "Discord ID:\ndiscord:1003507434268143616\nXbox Live ID:\nxbl:2535409127121534\nMicrosoft Live ID:\nlive:1055519268316946\nFiveM ID:\nN/A\nLicence ID:\nlicense:dcee61b1ea10aa7a2348a76de9f63bd86d9debf7"
+}
+{
+    "Pseudo": "Bdot",
+    "Identifiers": "Discord ID:\ndiscord:959966064781963264\nXbox Live ID:\nxbl:2535472046860673\nMicrosoft Live ID:\nlive:985155124721118\nFiveM ID:\nfivem:12805277\nLicence ID:\nlicense:bc6eb7620573e10486db869e14c46aa761b11d5a"
+}
+{
+    "Pseudo": "~r~A.~b~Cuz",
+    "Identifiers": "Discord ID:\ndiscord:1268232976882466966\nXbox Live ID:\nxbl:2535460772246477\nMicrosoft Live ID:\nlive:1055519044824349\nFiveM ID:\nfivem:12886508\nLicence ID:\nlicense:58751754a79ad0cb2c20df93671e8b546c1742ee"
+}
+{
+    "Pseudo": "A̷a̷l̷i̷y̷a̷h̷",
+    "Identifiers": "Discord ID:\ndiscord:1206049930649542736\nXbox Live ID:\nxbl:2535417629728308\nMicrosoft Live ID:\nlive:844428319980132\nFiveM ID:\nfivem:13450428\nLicence ID:\nlicense:e15fd79a4d7c594882b85bb3cd02e34e438921a0"
+}
+{
+    "Pseudo": "jonhossfeld1992",
+    "Identifiers": "Discord ID:\ndiscord:730978182651707474\nXbox Live ID:\nxbl:2535425595733515\nMicrosoft Live ID:\nlive:844425057263292\nFiveM ID:\nfivem:13369667\nLicence ID:\nlicense:ededcaac9e34299c4875f9ba44f5d2905ec10662"
+}
+{
+    "Pseudo": "~r~FMB~v~Miles",
+    "Identifiers": "Discord ID:\ndiscord:946604838383403018\nXbox Live ID:\nxbl:2535454555394888\nMicrosoft Live ID:\nlive:914799469210604\nFiveM ID:\nfivem:10372037\nLicence ID:\nlicense:54aee9592a624f4d0203636d814e59d431e5bfe1"
+}
+{
+    "Pseudo": "420forlife",
+    "Identifiers": "Discord ID:\ndiscord:1048615189035102208\nXbox Live ID:\nxbl:2535419385849529\nMicrosoft Live ID:\nlive:985155337713926\nFiveM ID:\nfivem:1746011\nLicence ID:\nlicense:93fdb52ddddd5731e3420ca7852b441f47406141"
+}
+{
+    "Pseudo": "~v~ 6",
+    "Identifiers": "Discord ID:\ndiscord:1135826368781897769\nXbox Live ID:\nxbl:2535464037595037\nMicrosoft Live ID:\nlive:1899947463671427\nFiveM ID:\nfivem:12257413\nLicence ID:\nlicense:7dfa6c6907caacc1374a8d6958f3e9807471eeea"
+}
+{
+    "Pseudo": "15627",
+    "Identifiers": "Discord ID:\ndiscord:1077769232323977278\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:10412659\nLicence ID:\nlicense:dcb8ffa6eef0c35a95065dac327c7c588396ed3d"
+}
+{
+    "Pseudo": "Vlone Saku49",
+    "Identifiers": "Discord ID:\ndiscord:877798709558128680\nXbox Live ID:\nxbl:2535426358266395\nMicrosoft Live ID:\nlive:1055519353845335\nFiveM ID:\nfivem:4017664\nLicence ID:\nlicense:e8f0072c7ea4ccf31e58ad6507dba5d2d9b972de"
+}
+{
+    "Pseudo": "~r~Zoe~b~ Mar",
+    "Identifiers": "Discord ID:\ndiscord:789202417228709909\nXbox Live ID:\nxbl:2535409850341046\nMicrosoft Live ID:\nlive:1055522526523222\nFiveM ID:\nfivem:6681407\nLicence ID:\nlicense:a5dbc34e36f1ce8a704739bbc8858c96a1d6f885"
+}
+{
+    "Pseudo": "lie",
+    "Identifiers": "Discord ID:\ndiscord:1167650651199766638\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:914799872784553\nFiveM ID:\nfivem:11916870\nLicence ID:\nlicense:2771bbded28f9ed20cfa631c056a8dbe5a0f3798"
+}
+{
+    "Pseudo": "rolandmalveaux44",
+    "Identifiers": "Discord ID:\ndiscord:1081806019417620490\nXbox Live ID:\nxbl:2535417153802392\nMicrosoft Live ID:\nlive:844425909033761\nFiveM ID:\nN/A\nLicence ID:\nlicense:f02035b12bab62a1965e993a60dd1381c483b434"
+}
+{
+    "Pseudo": "~r~ADOT☢️",
+    "Identifiers": "Discord ID:\ndiscord:496069604880154629\nXbox Live ID:\nxbl:2535468607052143\nMicrosoft Live ID:\nlive:914799034660358\nFiveM ID:\nN/A\nLicence ID:\nlicense:a4e8a1f7d0076634c65f9b798ccd0494533bf743"
+}
+{
+    "Pseudo": "discord.gg/xtrnalud",
+    "Identifiers": "Discord ID:\ndiscord:1236059045325045781\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:14761876\nLicence ID:\nlicense:15870bb303da0e3215b1bcb8dfc71ae0cd32de42"
+}
+{
+    "Pseudo": "illegal",
+    "Identifiers": "Discord ID:\ndiscord:227757395227574272\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:844427045481236\nFiveM ID:\nfivem:14757846\nLicence ID:\nlicense:8b2cd939b79de8c46c5a4d068a4af7cfadebef05"
+}
+{
+    "Pseudo": "~v~ Uncle Perc",
+    "Identifiers": "Discord ID:\ndiscord:349630082903441410\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:14136928\nLicence ID:\nlicense:0648c41d1f872c0c6222a9846e407f94b39624c6"
+}
+{
+    "Pseudo": "~v~best ego player™",
+    "Identifiers": "Discord ID:\ndiscord:949048150025465907\nXbox Live ID:\nxbl:2535439092712534\nMicrosoft Live ID:\nlive:914798824729054\nFiveM ID:\nN/A\nLicence ID:\nlicense:c6b631158666d3edb1bb0c032bc909fac6090e76"
+}
+{
+    "Pseudo": "KhayCartier",
+    "Identifiers": "Discord ID:\ndiscord:753901697457192980\nXbox Live ID:\nxbl:2535443179943536\nMicrosoft Live ID:\nlive:914801444030311\nFiveM ID:\nfivem:7790020\nLicence ID:\nlicense:f957845ca6147958c554705bd1cbe07b7f235785"
+}
+{
+    "Pseudo": "Tessa",
+    "Identifiers": "Discord ID:\ndiscord:1260780791542059099\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:14234610\nLicence ID:\nlicense:02a4f782f3ee0fdd0a9602a191b7a1dded07f877"
+}
+{
+    "Pseudo": "zaneswor",
+    "Identifiers": "Discord ID:\ndiscord:1017497616742879262\nXbox Live ID:\nxbl:2535422439999864\nMicrosoft Live ID:\nlive:914802200694508\nFiveM ID:\nfivem:14501927\nLicence ID:\nlicense:bb7d712ccd501f27678c6835494510784ac9d1cc"
+}
+{
+    "Pseudo": "Temp Movin 24/7",
+    "Identifiers": "Discord ID:\ndiscord:778798709802663966\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:1055520282092679\nFiveM ID:\nfivem:5274259\nLicence ID:\nlicense:4434a217288989bd993e757df26cb7da95b2f6b3"
+}
+{
+    "Pseudo": "~bold~~g~Kanji~l~XShen",
+    "Identifiers": "Discord ID:\ndiscord:940642881775996968\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:844427013622047\nFiveM ID:\nfivem:5740414\nLicence ID:\nlicense:d376fba193bf36ebefe1f047fd8a515bf308d87f"
+}
+{
+    "Pseudo": "~u~ Carti Gz",
+    "Identifiers": "Discord ID:\ndiscord:660407012202643496\nXbox Live ID:\nxbl:2533274916435148\nMicrosoft Live ID:\nlive:1899946734967605\nFiveM ID:\nfivem:9229224\nLicence ID:\nlicense:63a38fe67aa663b79846a9680f2bc923db3a44a2"
+}
+{
+    "Pseudo": "Sam",
+    "Identifiers": "Discord ID:\ndiscord:469303825849647106\nXbox Live ID:\nxbl:2535473185403410\nMicrosoft Live ID:\nlive:985157450738028\nFiveM ID:\nfivem:11368773\nLicence ID:\nlicense:2371d9c0616f208328310d1525dc0fe0db0f8138"
+}
+{
+    "Pseudo": "   ",
+    "Identifiers": "Discord ID:\ndiscord:1258077618339713146\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nN/A\nLicence ID:\nlicense:ca5db8bf60cc37e3aeabe33f166062e95f024be1"
+}
+{
+    "Pseudo": "LoverGirl",
+    "Identifiers": "Discord ID:\ndiscord:860761377878835250\nXbox Live ID:\nxbl:2533274800191465\nMicrosoft Live ID:\nlive:985156134623409\nFiveM ID:\nN/A\nLicence ID:\nlicense:60eec3b12b40399dc35e3ee3f5522328facc8f74"
+}
+{
+    "Pseudo": "~h~~m~Kobe",
+    "Identifiers": "Discord ID:\ndiscord:859115420241625108\nXbox Live ID:\nxbl:2535459913481855\nMicrosoft Live ID:\nlive:1055519228842892\nFiveM ID:\nN/A\nLicence ID:\nlicense:f8fef1252ba02e069350fd1b319dffd26334caf7"
+}
+{
+    "Pseudo": "life support",
+    "Identifiers": "Discord ID:\ndiscord:1247619384776589362\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nN/A\nLicence ID:\nlicense:44a2cb757e4e3b69035bc1e69273c35fb058032b"
+}
+{
+    "Pseudo": "Dooda-Dash",
+    "Identifiers": "Discord ID:\ndiscord:1099007343628390501\nXbox Live ID:\nxbl:2535455677434109\nMicrosoft Live ID:\nlive:1055521711142687\nFiveM ID:\nfivem:14701040\nLicence ID:\nlicense:a3b5db688aee273e9018577abfc2e8cd411b9763"
+}
+{
+    "Pseudo": "masterhydro",
+    "Identifiers": "Discord ID:\ndiscord:778093699833004103\nXbox Live ID:\nxbl:2535450913433091\nMicrosoft Live ID:\nlive:914798757031923\nFiveM ID:\nfivem:3850439\nLicence ID:\nlicense:83c940f16e2ce50e9f8cae67aa57baaac687f5ed"
+}
+{
+    "Pseudo": "~bold~~u~CARTI'S ~u~FREAK",
+    "Identifiers": "Discord ID:\ndiscord:562772901372231682\nXbox Live ID:\nxbl:2535422640300357\nMicrosoft Live ID:\nlive:985154766781725\nFiveM ID:\nfivem:11888017\nLicence ID:\nlicense:95927233819ac617ed9c7f9694c350d10462cd69"
+}
+{
+    "Pseudo": "mesy",
+    "Identifiers": "Discord ID:\ndiscord:1203474211029651486\nXbox Live ID:\nxbl:2535471501661589\nMicrosoft Live ID:\nlive:914799127433446\nFiveM ID:\nN/A\nLicence ID:\nlicense:21170a7914563d04de0c33410f6a2c20c861bbbb"
+}
+{
+    "Pseudo": "swayfone",
+    "Identifiers": "Discord ID:\ndiscord:468084275871219713\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:14789834\nLicence ID:\nlicense:989cd864207e2624ba89ee10a45d0e44594651ec"
+}
+{
+    "Pseudo": "ykm",
+    "Identifiers": "Discord ID:\ndiscord:1056343986580754573\nXbox Live ID:\nxbl:2535436309055692\nMicrosoft Live ID:\nlive:914798035761655\nFiveM ID:\nfivem:8911763\nLicence ID:\nlicense:57b1d4defa7d62800b0d640d75bafcebd7a083f2"
+}
+{
+    "Pseudo": "Chunkshyt_",
+    "Identifiers": "Discord ID:\ndiscord:1031747489751109642\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:1055520024032872\nFiveM ID:\nfivem:8357227\nLicence ID:\nlicense:49bd273f524613bf1b637f7fa2bce788930f25e2"
+}
+{
+    "Pseudo": "Bobthebuilder69",
+    "Identifiers": "Discord ID:\ndiscord:1184299581471735901\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:14816595\nLicence ID:\nlicense:c4fba273a36e2389c0f6d6f22c7b815da5dbc59c"
+}
+{
+    "Pseudo": "~p~MIxygzz",
+    "Identifiers": "Discord ID:\ndiscord:519934071074193421\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nN/A\nLicence ID:\nlicense:e6f0c1b0525d8604f34769c7702485ee4ccf592e"
+}
+{
+    "Pseudo": "bacce",
+    "Identifiers": "Discord ID:\ndiscord:870968126618103808\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nN/A\nLicence ID:\nlicense:d2736fec4db042e0d96ce4b5dd19ae9c1ea465a9"
+}
+{
+    "Pseudo": "~u~ YB",
+    "Identifiers": "Discord ID:\ndiscord:1254489328575582220\nXbox Live ID:\nxbl:2535459550901432\nMicrosoft Live ID:\nlive:844426905787694\nFiveM ID:\nfivem:14167303\nLicence ID:\nlicense:db714e9d210fbeb160391f32536c08cd1eda37f8"
+}
+{
+    "Pseudo": "\t\tCarter",
+    "Identifiers": "Discord ID:\ndiscord:697189374848139337\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:3680371\nLicence ID:\nlicense:3a1af6e2266c1d3503cfaf05a15ac20c28af4e89"
+}
+{
+    "Pseudo": "bunny",
+    "Identifiers": "Discord ID:\ndiscord:968652687774191636\nXbox Live ID:\nxbl:2535430855778977\nMicrosoft Live ID:\nlive:985155036723641\nFiveM ID:\nfivem:5410718\nLicence ID:\nlicense:959d389ce0dd426d5fb357644ffaef4e67244952"
+}
+{
+    "Pseudo": "~u~ Six 🍆",
+    "Identifiers": "Discord ID:\ndiscord:707269322912956476\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nN/A\nLicence ID:\nlicense:6fd4d18d3163bc0c7cfe07e3575c22b041420076"
+}
+{
+    "Pseudo": "~l~tux",
+    "Identifiers": "Discord ID:\ndiscord:1066828064870387722\nXbox Live ID:\nxbl:2535435390609430\nMicrosoft Live ID:\nlive:985155415243958\nFiveM ID:\nN/A\nLicence ID:\nlicense:6d35a636e53c7daf0776115198c7fd57b03bc763"
+}
+{
+    "Pseudo": "~g~jerry",
+    "Identifiers": "Discord ID:\ndiscord:1189748245522555002\nXbox Live ID:\nxbl:2535443659774875\nMicrosoft Live ID:\nlive:985155768024160\nFiveM ID:\nfivem:12720977\nLicence ID:\nlicense:1627aa248dc71cf692b2a9cd59ecd2cae76265cb"
+}
+{
+    "Pseudo": "Baxel",
+    "Identifiers": "Discord ID:\ndiscord:661976128126451742\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nN/A\nLicence ID:\nlicense:d844521f24dbf372c066c90ab464984afd5bea75"
+}
+{
+    "Pseudo": "~p~🦋Kayy🦋",
+    "Identifiers": "Discord ID:\ndiscord:1107041229084045402\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:1055520252793437\nFiveM ID:\nfivem:10528140\nLicence ID:\nlicense:dcde7cf766b3a83d408d08ca918f169110802bdc"
+}
+{
+    "Pseudo": "wop",
+    "Identifiers": "Discord ID:\ndiscord:615386917818728498\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nN/A\nLicence ID:\nlicense:07fe99f1cb028013ffe4870c98e8c79dd7461ebc"
+}
+{
+    "Pseudo": "~p~~bold~(ivy's son)~u~FMB_~r~Kay flock",
+    "Identifiers": "Discord ID:\ndiscord:950926866913574923\nXbox Live ID:\nxbl:2535409976220772\nMicrosoft Live ID:\nlive:914801222814514\nFiveM ID:\nfivem:8952189\nLicence ID:\nlicense:121cbb045abfd05573d63a8becccbc51aecc0a69"
+}
+{
+    "Pseudo": "~m~Polo's Girl",
+    "Identifiers": "Discord ID:\ndiscord:929112592637624342\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:1055520248009860\nFiveM ID:\nfivem:13976838\nLicence ID:\nlicense:1c94f39805991feb741b7602138c6c3e4d1a5c93"
+}
+{
+    "Pseudo": "⛽MY BIBLE🏧",
+    "Identifiers": "Discord ID:\ndiscord:816409735846559795\nXbox Live ID:\nxbl:2535463170865734\nMicrosoft Live ID:\nlive:985155258618424\nFiveM ID:\nfivem:8301730\nLicence ID:\nlicense:865c952c9e8d778a000c604039c49a438a245d67"
+}
+{
+    "Pseudo": "~p~~BOLD~Wocky ~l~~BOLD~Send Em To Heaven",
+    "Identifiers": "Discord ID:\ndiscord:697703510677913620\nXbox Live ID:\nxbl:2535451532297708\nMicrosoft Live ID:\nlive:914799742051961\nFiveM ID:\nfivem:14397474\nLicence ID:\nlicense:81f1d36f25723339e2b4c788b9cb264c8858a393"
+}
+{
+    "Pseudo": "~b~Mixed~c~By~g~Beezy🎧💽",
+    "Identifiers": "Discord ID:\ndiscord:1077180054502645760\nXbox Live ID:\nxbl:2535470398613496\nMicrosoft Live ID:\nlive:1055518697733263\nFiveM ID:\nfivem:7636974\nLicence ID:\nlicense:d8613a99698292184d957db2398f4a6922251fb3"
+}
+{
+    "Pseudo": "jrippy",
+    "Identifiers": "Discord ID:\ndiscord:613527332442996776\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:14824219\nLicence ID:\nlicense:d90a52e35ca0e639290b0e378f6ee39dac9f8871"
+}
+{
+    "Pseudo": "~w~~u~[Yanna's Son]~r~ qauke~w~🩸",
+    "Identifiers": "Discord ID:\ndiscord:1233989626541375561\nXbox Live ID:\nxbl:2535458193617944\nMicrosoft Live ID:\nlive:1055519430887752\nFiveM ID:\nN/A\nLicence ID:\nlicense:21808bdf087791bbe9a4bbed0110b8e89b638959"
+}
+{
+    "Pseudo": "~v~ NADI",
+    "Identifiers": "Discord ID:\ndiscord:795546041600573461\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:8619339\nLicence ID:\nlicense:b7e0bc3e6c52fdda21ce29af0faadb7ba8dc9159"
+}
+{
+    "Pseudo": "~u~T",
+    "Identifiers": "Discord ID:\ndiscord:915241272657195008\nXbox Live ID:\nxbl:2535448507976948\nMicrosoft Live ID:\nlive:844428911707162\nFiveM ID:\nfivem:14365195\nLicence ID:\nlicense:ddb641df31a482b8d935b4003e4a8491f1446e7d"
+}
+{
+    "Pseudo": "~f~  💙 Mami 💦",
+    "Identifiers": "Discord ID:\ndiscord:1028429139167944707\nXbox Live ID:\nxbl:2535415750147811\nMicrosoft Live ID:\nlive:844425038734612\nFiveM ID:\nfivem:128324\nLicence ID:\nlicense:f413a2a0ca5349543240de38491e57387a129532"
+}
+{
+    "Pseudo": "</3",
+    "Identifiers": "Discord ID:\ndiscord:1238268759689396288\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nN/A\nLicence ID:\nlicense:7555be325bb24b3367f7c7f0622a9b02937f978a"
+}
+{
+    "Pseudo": "hush",
+    "Identifiers": "Discord ID:\ndiscord:777197027426828338\nXbox Live ID:\nxbl:2535461394478286\nMicrosoft Live ID:\nlive:844426749967469\nFiveM ID:\nfivem:13313824\nLicence ID:\nlicense:7566bc87df14cd69a860683bdf3b531de3a45ee8"
+}
+{
+    "Pseudo": "~w~d~q~w~w~c",
+    "Identifiers": "Discord ID:\ndiscord:698789399546298389\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:10323342\nLicence ID:\nlicense:89b89e3265462aeaad069e3a141a862da62533b8"
+}
+{
+    "Pseudo": "~p~maddiegzz🌸",
+    "Identifiers": "Discord ID:\ndiscord:1096396751327473795\nXbox Live ID:\nxbl:2535438602874404\nMicrosoft Live ID:\nlive:985154772857432\nFiveM ID:\nfivem:11078040\nLicence ID:\nlicense:3237b14604243516e1e654f7c8d7bd92ecb19b86"
+}
+{
+    "Pseudo": "elois",
+    "Identifiers": "Discord ID:\ndiscord:523210359461511177\nXbox Live ID:\nxbl:2535431822143227\nMicrosoft Live ID:\nlive:844425181994704\nFiveM ID:\nfivem:14494177\nLicence ID:\nlicense:db3fd1bdeff8f12c5de415d2343550fd44b591b4"
+}
+{
+    "Pseudo": "~l~oozin",
+    "Identifiers": "Discord ID:\ndiscord:543705536562987008\nXbox Live ID:\nxbl:2535423247402809\nMicrosoft Live ID:\nlive:2040691563904827\nFiveM ID:\nfivem:1289411\nLicence ID:\nlicense:836e9709a8c8e93feb57cdb9684c9ed4a96d4b51"
+}
+{
+    "Pseudo": "neeutro",
+    "Identifiers": "Discord ID:\ndiscord:680945859592192014\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:14506038\nLicence ID:\nlicense:a98bed253451f7c122bfa3a29cfa78fbfdeb0393"
+}
+{
+    "Pseudo": " Ela HEAT",
+    "Identifiers": "Discord ID:\ndiscord:640312703767806007\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:8250084\nLicence ID:\nlicense:6bf9bda89ade1ca95d673529ee3b1e545a2b7f44"
+}
+{
+    "Pseudo": "F O F",
+    "Identifiers": "Discord ID:\ndiscord:1034347892829335702\nXbox Live ID:\nxbl:2535471082379987\nMicrosoft Live ID:\nlive:1055518672112747\nFiveM ID:\nfivem:14422500\nLicence ID:\nlicense:873df57dc779b7c6840bf60765a7824221dbd28b"
+}
+{
+    "Pseudo": "Chop",
+    "Identifiers": "Discord ID:\ndiscord:1244473046866333696\nXbox Live ID:\nxbl:2535413206781413\nMicrosoft Live ID:\nlive:985154176836609\nFiveM ID:\nfivem:14093136\nLicence ID:\nlicense:6c01258005696556097a25df954ecc887071a147"
+}
+{
+    "Pseudo": "Tomas the og",
+    "Identifiers": "Discord ID:\ndiscord:800901514075832330\nXbox Live ID:\nxbl:2535422587325886\nMicrosoft Live ID:\nlive:985154182765223\nFiveM ID:\nfivem:9374071\nLicence ID:\nlicense:0df6856e595ad297b93f52bf30e7d228a60dfd67"
+}
+{
+    "Pseudo": "ItsBri",
+    "Identifiers": "Discord ID:\ndiscord:1058930381727989781\nXbox Live ID:\nxbl:2535420661550419\nMicrosoft Live ID:\nlive:914799329881293\nFiveM ID:\nN/A\nLicence ID:\nlicense:d2cc3b9e4cd86a5f694c3bc916f5e3a301666031"
+}
+{
+    "Pseudo": "Kevin",
+    "Identifiers": "Discord ID:\ndiscord:418738570669457410\nXbox Live ID:\nxbl:2535407619339324\nMicrosoft Live ID:\nlive:844428430279513\nFiveM ID:\nfivem:5854626\nLicence ID:\nlicense:6e365aa0d0d8e42efad9d4d3235aadc1323e086d"
+}
+{
+    "Pseudo": "~v~fw~p~Melo",
+    "Identifiers": "Discord ID:\ndiscord:684566465806073878\nXbox Live ID:\nxbl:2535456211405151\nMicrosoft Live ID:\nlive:985154881878873\nFiveM ID:\nfivem:12900100\nLicence ID:\nlicense:d64096e71f168858f613204917c3f66f55f80080"
+}
+{
+    "Pseudo": "EBK-Jared",
+    "Identifiers": "Discord ID:\ndiscord:863064786690244608\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:7763439\nLicence ID:\nlicense:6d2d69d1e644d8bbbe357db7443f7d9582fc33d8"
+}
+{
+    "Pseudo": "~u~Tyga",
+    "Identifiers": "Discord ID:\ndiscord:873396213339283466\nXbox Live ID:\nxbl:2535438452753229\nMicrosoft Live ID:\nlive:1688850169354339\nFiveM ID:\nfivem:14450369\nLicence ID:\nlicense:11b74416225e1a1ca11911928b4ee3a32827cf81"
+}
+{
+    "Pseudo": "Bandz",
+    "Identifiers": "Discord ID:\ndiscord:612673628814966795\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:3311914\nLicence ID:\nlicense:03db80246d33492e2ce866c6a761998df9a674f5"
+}
+{
+    "Pseudo": "brys shmurda",
+    "Identifiers": "Discord ID:\ndiscord:1126698105794990202\nXbox Live ID:\nxbl:2535444847364857\nMicrosoft Live ID:\nlive:914799507030622\nFiveM ID:\nfivem:10837348\nLicence ID:\nlicense:0e91605dc7bed0979cd8f3fdf6ea36516a006a37"
+}
+{
+    "Pseudo": "{EMT-372} J.Smith",
+    "Identifiers": "Discord ID:\ndiscord:759070397932503081\nXbox Live ID:\nxbl:2535463415711622\nMicrosoft Live ID:\nlive:914798295034703\nFiveM ID:\nfivem:13037585\nLicence ID:\nlicense:a90903774adfa2efbf3f6f385e28ca3f90e1d350"
+}
+{
+    "Pseudo": "theom",
+    "Identifiers": "Discord ID:\ndiscord:832654355156959283\nXbox Live ID:\nxbl:2535431901779061\nMicrosoft Live ID:\nlive:914798633397360\nFiveM ID:\nfivem:14655938\nLicence ID:\nlicense:8d878aa0f25781f63235e041e3b4a945ae56039e"
+}
+{
+    "Pseudo": "💵 ~c~ Khi ~g~ Bandz💵",
+    "Identifiers": "Discord ID:\ndiscord:707448691539312701\nXbox Live ID:\nxbl:2535443420019099\nMicrosoft Live ID:\nlive:914798484212341\nFiveM ID:\nfivem:11718055\nLicence ID:\nlicense:20836e143cfb1b867be36ba8c56d30b986081468"
+}
+{
+    "Pseudo": "manual4kt!",
+    "Identifiers": "Discord ID:\ndiscord:940800090786902078\nXbox Live ID:\nxbl:2535453964228805\nMicrosoft Live ID:\nlive:844426094178775\nFiveM ID:\nfivem:13123797\nLicence ID:\nlicense:70c31a63a70fd3d538d31fdeb96a67fec3739e48"
+}
+{
+    "Pseudo": "COKEZ",
+    "Identifiers": "Discord ID:\ndiscord:935574816902230056\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:1055520203099244\nFiveM ID:\nfivem:13082611\nLicence ID:\nlicense:16f86246cf233dc5aa2421ebbdbe0e62c6b3bc66"
+}
+{
+    "Pseudo": "I like to RAGE™",
+    "Identifiers": "Discord ID:\ndiscord:549385534150148155\nXbox Live ID:\nxbl:2535438470559423\nMicrosoft Live ID:\nlive:1055519098538631\nFiveM ID:\nN/A\nLicence ID:\nlicense:343d59314ea4bc50b464f9e06b8fff51883b145e"
+}
+{
+    "Pseudo": "IVAN💣",
+    "Identifiers": "Discord ID:\ndiscord:642181277021372428\nXbox Live ID:\nxbl:2535453500789181\nMicrosoft Live ID:\nlive:1055519481350636\nFiveM ID:\nN/A\nLicence ID:\nlicense:0df4326393c97dbf46a05ad8db81ad9b829551b2"
+}
+{
+    "Pseudo": " ~u~V~p~A~u~S~p~P~u~P~p~Y ~r~™ (  ~u~ NANA SON 👶)  ",
+    "Identifiers": "Discord ID:\ndiscord:843103537138499596\nXbox Live ID:\nxbl:2535466947720030\nMicrosoft Live ID:\nlive:1055519976188797\nFiveM ID:\nfivem:10999560\nLicence ID:\nlicense:477e138084d5ac069e7e0d1246a0b832194375a5"
+}
+{
+    "Pseudo": "~g~p~g~u~g~f~g~f~g~",
+    "Identifiers": "Discord ID:\ndiscord:1213674473367273482\nXbox Live ID:\nxbl:2535406022425315\nMicrosoft Live ID:\nlive:1055521879345939\nFiveM ID:\nfivem:2685412\nLicence ID:\nlicense:0e2018005fd9d0060c7fbc8b87275c4dd577aebc"
+}
+{
+    "Pseudo": "Cooper",
+    "Identifiers": "Discord ID:\ndiscord:1073817513718198365\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:12127827\nLicence ID:\nlicense:857ae32fbd1dd4403b6a5c9a3148ace7d6c7607a"
+}
+{
+    "Pseudo": "EFFECT",
+    "Identifiers": "Discord ID:\ndiscord:669685861293752330\nXbox Live ID:\nxbl:2535467891625449\nMicrosoft Live ID:\nlive:985154487316723\nFiveM ID:\nfivem:13287535\nLicence ID:\nlicense:223fc13fb57e6029b119239aff654406a8190be0"
+}
+{
+    "Pseudo": "~bold~~r~v~u~o~r~n~u~t~r~e~u~a~q~ gzz",
+    "Identifiers": "Discord ID:\ndiscord:956369104476979240\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:14398833\nLicence ID:\nlicense:83ab4a66d0a62d94cc5b69a1bb12d9ca4db47736"
+}
+{
+    "Pseudo": "Kandice Son/💸stvckzzz💸",
+    "Identifiers": "Discord ID:\ndiscord:1133145122100490251\nXbox Live ID:\nxbl:2535429781027726\nMicrosoft Live ID:\nlive:1055518537286688\nFiveM ID:\nfivem:13799808\nLicence ID:\nlicense:b85877cc7733a0c3f4b666b0951ba74b879456df"
+}
+{
+    "Pseudo": "POPOTE",
+    "Identifiers": "Discord ID:\ndiscord:531703040135266304\nXbox Live ID:\nxbl:2535430025310621\nMicrosoft Live ID:\nlive:985154281618738\nFiveM ID:\nfivem:7664849\nLicence ID:\nlicense:334b49dff6504415daf670b24caa5ddea813cf9f"
+}
+{
+    "Pseudo": "King",
+    "Identifiers": "Discord ID:\ndiscord:721210526138499123\nXbox Live ID:\nxbl:2535454638648546\nMicrosoft Live ID:\nlive:1055522561080769\nFiveM ID:\nfivem:10903054\nLicence ID:\nlicense:d332bf9f903fecfaaf5dc651efd3c57ed46b1eec"
+}
+{
+    "Pseudo": "~v~5~s~™ ",
+    "Identifiers": "Discord ID:\ndiscord:859762323136577546\nXbox Live ID:\nxbl:2535413914115438\nMicrosoft Live ID:\nlive:1055519296609249\nFiveM ID:\nfivem:13758860\nLicence ID:\nlicense:1140521899981ff52fc12a1032cd478146af154e"
+}
+{
+    "Pseudo": "domo and tyreeks son{the original youngerster}",
+    "Identifiers": "Discord ID:\ndiscord:1245574015037476865\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:14407475\nLicence ID:\nlicense:ebad979ff56962d8ceba189283f9948e470dd21a"
+}
+{
+    "Pseudo": "TTV.xLilMase",
+    "Identifiers": "Discord ID:\ndiscord:707274004368457810\nXbox Live ID:\nxbl:2535425804665399\nMicrosoft Live ID:\nlive:1055520230571760\nFiveM ID:\nfivem:6241050\nLicence ID:\nlicense:2071e208201337f3909b9a40e5e388d163bb3a51"
+}
+{
+    "Pseudo": "JitXVL",
+    "Identifiers": "Discord ID:\ndiscord:947361806240874517\nXbox Live ID:\nxbl:2535416287862176\nMicrosoft Live ID:\nlive:1055518549440202\nFiveM ID:\nfivem:14263840\nLicence ID:\nlicense:6cf3d6916312f18425f9f5d0e8bc4b242f3c90e7"
+}
+{
+    "Pseudo": "biddi",
+    "Identifiers": "Discord ID:\ndiscord:474696259714678784\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:10597686\nLicence ID:\nlicense:0e0e826bc2d81f5ba7850d4e78e170a8cb8d22b5"
+}
+{
+    "Pseudo": "💫 ~p~ ~h~Violet's~u~C~u~h~u~a~u~p~u~o 💫💍",
+    "Identifiers": "Discord ID:\ndiscord:1223454651383550042\nXbox Live ID:\nxbl:2535436638554138\nMicrosoft Live ID:\nlive:914798739587421\nFiveM ID:\nfivem:14069981\nLicence ID:\nlicense:52a2a1bcd2164248cb3915ba46f041b4be1ab06a"
+}
+{
+    "Pseudo": "RAQ",
+    "Identifiers": "Discord ID:\ndiscord:1069014373135298621\nXbox Live ID:\nxbl:2535445811083542\nMicrosoft Live ID:\nlive:985154615185640\nFiveM ID:\nN/A\nLicence ID:\nlicense:262fd0b31e3e87e4e690ccaa91ac0f6ed1da60dd"
+}
+{
+    "Pseudo": "Fitzy",
+    "Identifiers": "Discord ID:\ndiscord:916833598299074622\nXbox Live ID:\nxbl:2535450659794075\nMicrosoft Live ID:\nlive:1055519446126318\nFiveM ID:\nN/A\nLicence ID:\nlicense:ee742370297141224d822e61a8efad59f6695d09"
+}
+{
+    "Pseudo": "DoodlePop",
+    "Identifiers": "Discord ID:\ndiscord:708783564912853095\nXbox Live ID:\nxbl:2535465465826180\nMicrosoft Live ID:\nlive:1055521784941080\nFiveM ID:\nfivem:12179976\nLicence ID:\nlicense:db98994dd5501d20ac1d2c09391a24d55d368375"
+}
+{
+    "Pseudo": "~r~ MAYHEM ",
+    "Identifiers": "Discord ID:\ndiscord:904942529470939208\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:1055520351693069\nFiveM ID:\nfivem:2086477\nLicence ID:\nlicense:fb803cd946ce28c73beb37af86100cdd68eccfa5"
+}
+{
+    "Pseudo": "david",
+    "Identifiers": "Discord ID:\ndiscord:947994010969059369\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:1055520217635502\nFiveM ID:\nN/A\nLicence ID:\nlicense:89e001b93e18d11049820eb322e4b8bad0d8d308"
+}
+{
+    "Pseudo": "josia",
+    "Identifiers": "Discord ID:\ndiscord:1192376839725916212\nXbox Live ID:\nxbl:2535437202282990\nMicrosoft Live ID:\nlive:844426764456342\nFiveM ID:\nfivem:14789203\nLicence ID:\nlicense:7b4bdb682984ede2c9ac79a71b7cdaf2cd2a9887"
+}
+{
+    "Pseudo": "boo-boo kittyfk",
+    "Identifiers": "Discord ID:\ndiscord:226047556537286657\nXbox Live ID:\nxbl:2535450517724190\nMicrosoft Live ID:\nlive:1899943498812070\nFiveM ID:\nfivem:10656297\nLicence ID:\nlicense:f424cd1084cfa09e9465d80bbc57dd0fd423a01e"
+}
+{
+    "Pseudo": "Fredo",
+    "Identifiers": "Discord ID:\ndiscord:1053893480994320466\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:12533792\nLicence ID:\nlicense:b312ac60779171f6ee930d49d1d6ce2d553ea34b"
+}
+{
+    "Pseudo": "caden",
+    "Identifiers": "Discord ID:\ndiscord:1011243904886112256\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:1055520364225275\nFiveM ID:\nfivem:12596939\nLicence ID:\nlicense:a5a062dea1b797219055dc93da359ea016577a9a"
+}
+{
+    "Pseudo": "karrot",
+    "Identifiers": "Discord ID:\ndiscord:546554419618250772\nXbox Live ID:\nxbl:2535458012492647\nMicrosoft Live ID:\nlive:914798119681189\nFiveM ID:\nN/A\nLicence ID:\nlicense:752cf1cba75bc3f0e6fe690442191305388a6e0f"
+}
+{
+    "Pseudo": "coddd",
+    "Identifiers": "Discord ID:\ndiscord:904841760910479371\nXbox Live ID:\nxbl:2535467694222647\nMicrosoft Live ID:\nlive:1899947317796499\nFiveM ID:\nN/A\nLicence ID:\nlicense:3354494fb425f15b3589ff8ba7fb07e183960142"
+}
+{
+    "Pseudo": "🩸~r~me~w~lly~r~ggz🦖",
+    "Identifiers": "Discord ID:\ndiscord:1010015767409991730\nXbox Live ID:\nxbl:2535437306777195\nMicrosoft Live ID:\nlive:1055519803234785\nFiveM ID:\nfivem:11443935\nLicence ID:\nlicense:1eb07c7753c32610115a5768b4b53f80158ebf9f"
+}
+{
+    "Pseudo": "Vonwick",
+    "Identifiers": "Discord ID:\ndiscord:1072150733526421606\nXbox Live ID:\nxbl:2533275031101919\nMicrosoft Live ID:\nlive:985157149207282\nFiveM ID:\nfivem:8408458\nLicence ID:\nlicense:d7fbd86e928948b4674a56bfb328a6eadbc8cf46"
+}
+{
+    "Pseudo": "Tan",
+    "Identifiers": "Discord ID:\ndiscord:961467270641639464\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:2709043\nLicence ID:\nlicense:9abfbd05e832b76858d4eb716c5b27e14da589d1"
+}
+{
+    "Pseudo": "~r~dolo",
+    "Identifiers": "Discord ID:\ndiscord:1179940154719359131\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:10687953\nLicence ID:\nlicense:6dfd4c3ec31283740807637198693533a2bbf01a"
+}
+{
+    "Pseudo": "~v~Shotzzy🕸️",
+    "Identifiers": "Discord ID:\ndiscord:637737180176842753\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nN/A\nLicence ID:\nlicense:63c2e72e1da0d3fa7b4bb0857bae7f4c9ab29249"
+}
+{
+    "Pseudo": "~q~Kehlani",
+    "Identifiers": "Discord ID:\ndiscord:929112592637624342\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:1055520248009860\nFiveM ID:\nfivem:13976838\nLicence ID:\nlicense:1c94f39805991feb741b7602138c6c3e4d1a5c93"
+}
+{
+    "Pseudo": "Pablo20",
+    "Identifiers": "Discord ID:\ndiscord:487000087608688647\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:14653524\nLicence ID:\nlicense:3a1f50b95ae73fe4373e2d6abfe804d52849f173"
+}
+{
+    "Pseudo": " ~h~~q~💗🍃XQUEENX🍃💗",
+    "Identifiers": "Discord ID:\ndiscord:787612146459475968\nXbox Live ID:\nxbl:2535457870354948\nMicrosoft Live ID:\nlive:1055521519243142\nFiveM ID:\nfivem:13629998\nLicence ID:\nlicense:8fc15872f86bede5269e58547525e70a286a1054"
+}
+{
+    "Pseudo": "†GOD DID†",
+    "Identifiers": "Discord ID:\ndiscord:1034347892829335702\nXbox Live ID:\nxbl:2535471082379987\nMicrosoft Live ID:\nlive:1055518672112747\nFiveM ID:\nfivem:14422500\nLicence ID:\nlicense:873df57dc779b7c6840bf60765a7824221dbd28b"
+}
+{
+    "Pseudo": "Echo",
+    "Identifiers": "Discord ID:\ndiscord:764293225954672661\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:1751432\nLicence ID:\nlicense:7e31547089650a301d3e50b9476593a2b01d59d7"
+}
+{
+    "Pseudo": "jaxonthacker6",
+    "Identifiers": "Discord ID:\ndiscord:717614813123182637\nXbox Live ID:\nxbl:2535411780482898\nMicrosoft Live ID:\nlive:914799127105428\nFiveM ID:\nN/A\nLicence ID:\nlicense:1625df391e6293919819151e55b3ed22976c1fbe"
+}
+{
+    "Pseudo": "chris [yb nd ken son]",
+    "Identifiers": "Discord ID:\ndiscord:1221220599909847152\nXbox Live ID:\nxbl:2535454469972691\nMicrosoft Live ID:\nlive:844426430510281\nFiveM ID:\nfivem:12844558\nLicence ID:\nlicense:d5792f185e5667f1a188c7f5cb2d9ff4ef3d4b5a"
+}
+{
+    "Pseudo": "~l~A̴̓~m~b̶͝💫",
+    "Identifiers": "Discord ID:\ndiscord:799025308196012042\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:985155962172780\nFiveM ID:\nfivem:14113510\nLicence ID:\nlicense:dd90dd1a79602ac2013a9308bf8d6706d3adf5f7"
+}
+{
+    "Pseudo": "BIGFMBOGRAH",
+    "Identifiers": "Discord ID:\ndiscord:937932665921884220\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:985154861663945\nFiveM ID:\nfivem:6029290\nLicence ID:\nlicense:c26f187210cb17353928b4e6fc1b4453d1cb8d34"
+}
+{
+    "Pseudo": "swayfone",
+    "Identifiers": "Discord ID:\ndiscord:468084275871219713\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:14789834\nLicence ID:\nlicense:989cd864207e2624ba89ee10a45d0e44594651ec"
+}
+{
+    "Pseudo": "Monkeydude",
+    "Identifiers": "Discord ID:\ndiscord:641763265533444107\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:12413900\nLicence ID:\nlicense:1574e05d3d2b62a04936c3bc9abb4705db6e4059"
+}
+{
+    "Pseudo": "jerkjagger",
+    "Identifiers": "Discord ID:\ndiscord:1269756507889860658\nXbox Live ID:\nxbl:2535417523996211\nMicrosoft Live ID:\nlive:1055518681570276\nFiveM ID:\nN/A\nLicence ID:\nlicense:1da919ff76e81c5dcd931f03ab27bbf0dc47c1ae"
+}
+{
+    "Pseudo": "Grumpy",
+    "Identifiers": "Discord ID:\ndiscord:539916388089987092\nXbox Live ID:\nxbl:2535430545726455\nMicrosoft Live ID:\nlive:1055519263775734\nFiveM ID:\nN/A\nLicence ID:\nlicense:b71883e1ad23be22c08d01765c7cc045474b3606"
+}
+{
+    "Pseudo": "Toxic",
+    "Identifiers": "Discord ID:\ndiscord:1014267748186062849\nXbox Live ID:\nxbl:2535419814940320\nMicrosoft Live ID:\nlive:914799292173141\nFiveM ID:\nfivem:10837031\nLicence ID:\nlicense:000c70d26657d7b619873388ae039a639bdf4a96"
+}
+{
+    "Pseudo": "Wockhardt",
+    "Identifiers": "Discord ID:\ndiscord:1209013860976168964\nXbox Live ID:\nxbl:2535469522530863\nMicrosoft Live ID:\nlive:1055520240714889\nFiveM ID:\nfivem:13332386\nLicence ID:\nlicense:ef810e398fe49add27843b974e976daebb6027c0"
+}
+{
+    "Pseudo": "al",
+    "Identifiers": "Discord ID:\ndiscord:765222087840628776\nXbox Live ID:\nxbl:2535423966791627\nMicrosoft Live ID:\nlive:844426668010809\nFiveM ID:\nfivem:13934382\nLicence ID:\nlicense:ddacd64f6fa5d712e91df088f893f46b17e34cf2"
+}
+{
+    "Pseudo": "~h~~g~Buttercup",
+    "Identifiers": "Discord ID:\ndiscord:1179523586982150225\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:914799666908948\nFiveM ID:\nfivem:14407436\nLicence ID:\nlicense:c08eb72b713fbc8dbc919f4528b8a8dac5c6dcbf"
+}
+{
+    "Pseudo": "~h~~b~Boomer",
+    "Identifiers": "Discord ID:\ndiscord:701896732597944393\nXbox Live ID:\nxbl:2535441324752557\nMicrosoft Live ID:\nlive:914798652305683\nFiveM ID:\nfivem:14433315\nLicence ID:\nlicense:cdf2623b4a1ad5f77117194ee8d407cc28451748"
+}
+{
+    "Pseudo": "~q~ SIN K",
+    "Identifiers": "Discord ID:\ndiscord:975224699611123773\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:13410116\nLicence ID:\nlicense:0288a47a3fcd7fa09607be8b93133c0aa9c15360"
+}
+{
+    "Pseudo": "~r~Right ~u~Nut",
+    "Identifiers": "Discord ID:\ndiscord:234350319633563649\nXbox Live ID:\nxbl:2533274872605550\nMicrosoft Live ID:\nlive:844427968976139\nFiveM ID:\nfivem:2490785\nLicence ID:\nlicense:9ffefb3d272e83a06cfbd48014914bed456a7fd6"
+}
+{
+    "Pseudo": "👑~r~PLUGGZ~r~👑",
+    "Identifiers": "Discord ID:\ndiscord:707362370925625385\nXbox Live ID:\nxbl:2535450390775775\nMicrosoft Live ID:\nlive:985154320787472\nFiveM ID:\nfivem:11632590\nLicence ID:\nlicense:a6c6320994f493a9880a35db8a6c9ce99a6524dd"
+}
+{
+    "Pseudo": "~p~~h~NAE ~h~K¿⸸",
+    "Identifiers": "Discord ID:\ndiscord:393848951947657218\nXbox Live ID:\nxbl:2535461683982159\nMicrosoft Live ID:\nlive:844425630279672\nFiveM ID:\nfivem:6735524\nLicence ID:\nlicense:f03cdeb6e291a147ce9f529a06d27ac81699927f"
+}
+{
+    "Pseudo": "La puente",
+    "Identifiers": "Discord ID:\ndiscord:301567107898802176\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:914798187156077\nFiveM ID:\nfivem:10408138\nLicence ID:\nlicense:253dfd65dd05d5fd320ff3a873cdf4c83ccdd72b"
+}
+{
+    "Pseudo": "~h~~b~Bubbles",
+    "Identifiers": "Discord ID:\ndiscord:824107212820840478\nXbox Live ID:\nxbl:2535440787562838\nMicrosoft Live ID:\nlive:844424987297233\nFiveM ID:\nN/A\nLicence ID:\nlicense:05418b2d5e363ee1e42b716631b0b88759072e09"
+}
+{
+    "Pseudo": "DREdski",
+    "Identifiers": "Discord ID:\ndiscord:636436664922800128\nXbox Live ID:\nxbl:2535452421914928\nMicrosoft Live ID:\nlive:914798392790142\nFiveM ID:\nfivem:1623216\nLicence ID:\nlicense:d9976d4188d8bb7ef4a1b0bc0c48afe39d18e06a"
+}
+{
+    "Pseudo": "wilso",
+    "Identifiers": "Discord ID:\ndiscord:896188925759086613\nXbox Live ID:\nxbl:2533274943861557\nMicrosoft Live ID:\nlive:1055521173421092\nFiveM ID:\nfivem:14459356\nLicence ID:\nlicense:0ca99c1701cbe489890105e96878f178bf73c566"
+}
+{
+    "Pseudo": "~ws~ ~y~strogen~u~off~y~b~u~eef~ws~",
+    "Identifiers": "Discord ID:\ndiscord:835734836761198663\nXbox Live ID:\nxbl:2535417775122552\nMicrosoft Live ID:\nlive:985154087552419\nFiveM ID:\nfivem:13769388\nLicence ID:\nlicense:9158e73c4b7f573e09ae77b5865444923698dbb1"
+}
+{
+    "Pseudo": "hex",
+    "Identifiers": "Discord ID:\ndiscord:988942672486105109\nXbox Live ID:\nxbl:2535460476784936\nMicrosoft Live ID:\nlive:914799783928149\nFiveM ID:\nfivem:14714374\nLicence ID:\nlicense:58e47fa033b27804df4a9a85617351a61a73ddca"
+}
+{
+    "Pseudo": "🍃UNCLE-JOE🌬",
+    "Identifiers": "Discord ID:\ndiscord:1031998576248770581\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:8880061\nLicence ID:\nlicense:d13678c4236fcbe6adb93fdc2a5311b305588f7c"
+}
+{
+    "Pseudo": "~h~~r~🌸Blossom🌸",
+    "Identifiers": "Discord ID:\ndiscord:1003507434268143616\nXbox Live ID:\nxbl:2535409127121534\nMicrosoft Live ID:\nlive:1055519268316946\nFiveM ID:\nN/A\nLicence ID:\nlicense:dcee61b1ea10aa7a2348a76de9f63bd86d9debf7"
+}
+{
+    "Pseudo": "sendsh0tzz",
+    "Identifiers": "Discord ID:\ndiscord:874277436139896864\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nN/A\nLicence ID:\nlicense:1d76833f0d71c6b01f9c55e1ba78f6ca2db92ce3"
+}
+{
+    "Pseudo": "ReekoReckless",
+    "Identifiers": "Discord ID:\ndiscord:1227299746373435546\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:914799049248375\nFiveM ID:\nfivem:11899741\nLicence ID:\nlicense:d8341f3a76139739e7550f25578a9a8daa46f463"
+}
+{
+    "Pseudo": "BABY D",
+    "Identifiers": "Discord ID:\ndiscord:947901889482223626\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:14273929\nLicence ID:\nlicense:30aa85a2a8daa1ed793869826c33f81111db4069"
+}
+{
+    "Pseudo": "😈💊~r~anony~u~mous💥",
+    "Identifiers": "Discord ID:\ndiscord:1192149368153845832\nXbox Live ID:\nxbl:2535460772246477\nMicrosoft Live ID:\nlive:1055519044824349\nFiveM ID:\nfivem:12886508\nLicence ID:\nlicense:58751754a79ad0cb2c20df93671e8b546c1742ee"
+}
+{
+    "Pseudo": "fazo",
+    "Identifiers": "Discord ID:\ndiscord:1252664206763884546\nXbox Live ID:\nxbl:2535436793064285\nMicrosoft Live ID:\nlive:914799661688402\nFiveM ID:\nN/A\nLicence ID:\nlicense:c545e0b6ab958a85c0df5e329f98f9c3c4e57931"
+}
+{
+    "Pseudo": "tRaViS:)",
+    "Identifiers": "Discord ID:\ndiscord:790974672912777226\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nN/A\nLicence ID:\nlicense:ce301670fc92f153999cd613a337e328686f9b91"
+}
+{
+    "Pseudo": "~r~Q ~u~B~r~ALOT",
+    "Identifiers": "Discord ID:\ndiscord:949955770013872138\nXbox Live ID:\nxbl:2535472245350178\nMicrosoft Live ID:\nlive:1055521845091851\nFiveM ID:\nfivem:8913735\nLicence ID:\nlicense:e53fe091d449c8b0540acddc43583f699c6d61c6"
+}
+{
+    "Pseudo": "👁️‍🗨️👁️‍🗨️👁️‍🗨️👁️‍🗨️",
+    "Identifiers": "Discord ID:\ndiscord:1236270088093696110\nXbox Live ID:\nxbl:2535406485423983\nMicrosoft Live ID:\nlive:1055520409931242\nFiveM ID:\nN/A\nLicence ID:\nlicense:00d265b0af6e106d1f48e8fdb2677b7209d9de38"
+}
+{
+    "Pseudo": " TATTED daughter/ Nessy",
+    "Identifiers": "Discord ID:\ndiscord:438203664822304769\nXbox Live ID:\nxbl:2535412562684594\nMicrosoft Live ID:\nlive:985157191808283\nFiveM ID:\nfivem:13582741\nLicence ID:\nlicense:609f469623a01f5b37c1e6a668fc9177f18ad4bd"
+}
+{
+    "Pseudo": "BRICKBABY718",
+    "Identifiers": "Discord ID:\ndiscord:1261231432504836099\nXbox Live ID:\nxbl:2535410832365217\nMicrosoft Live ID:\nlive:985154446935728\nFiveM ID:\nN/A\nLicence ID:\nlicense:7c1c35b0fe22980cb2668a8360b99c18be4e9f59"
+}
+{
+    "Pseudo": "Trickz",
+    "Identifiers": "Discord ID:\ndiscord:424137346502492173\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:5467317\nLicence ID:\nlicense:9a18a612e2204d64689970baf6a08fa9312dcd08"
+}
+{
+    "Pseudo": "shoedaddy",
+    "Identifiers": "Discord ID:\ndiscord:451520601681690624\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:11608671\nLicence ID:\nlicense:6d28cd09a0cd40bb5d1abc3549529d3447b0c5da"
+}
+{
+    "Pseudo": "vex",
+    "Identifiers": "Discord ID:\ndiscord:800084652411846707\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:844426309694109\nFiveM ID:\nfivem:3574065\nLicence ID:\nlicense:2562b92127da917e2ea7855bd343df790cbd5d17"
+}
+{
+    "Pseudo": "~r~J~r~ayso",
+    "Identifiers": "Discord ID:\ndiscord:1052807374257278986\nXbox Live ID:\nxbl:2535456499443194\nMicrosoft Live ID:\nlive:985154495827887\nFiveM ID:\nfivem:14752864\nLicence ID:\nlicense:cc91c177112a8e7cb9614feb8e459144bb9e0cad"
+}
+{
+    "Pseudo": "~h~~u~Eddie",
+    "Identifiers": "Discord ID:\ndiscord:1206690784846544906\nXbox Live ID:\nxbl:2535468650788887\nMicrosoft Live ID:\nlive:844425847711196\nFiveM ID:\nfivem:13065761\nLicence ID:\nlicense:8325d12fc8cf09037e8d043974fb0e2393b2947f"
+}
+{
+    "Pseudo": "HxnnyBxnny",
+    "Identifiers": "Discord ID:\ndiscord:716904148414496839\nXbox Live ID:\nxbl:2535456148538678\nMicrosoft Live ID:\nlive:844426108891073\nFiveM ID:\nfivem:14840650\nLicence ID:\nlicense:000f97266f558d63ac497c6a3655f9a9234ba0e1"
+}
+{
+    "Pseudo": "They Caught Me..⚠️",
+    "Identifiers": "Discord ID:\ndiscord:801223050921115729\nXbox Live ID:\nxbl:2535457334969401\nMicrosoft Live ID:\nlive:985155273815240\nFiveM ID:\nfivem:4649733\nLicence ID:\nlicense:7328122aa8bf133b47dd67509b4d32f1ba73ed6b"
+}
+{
+    "Pseudo": "MrJohnWick",
+    "Identifiers": "Discord ID:\ndiscord:979241205361700915\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:914800014107295\nFiveM ID:\nfivem:14754994\nLicence ID:\nlicense:636e5049efb13ae67a1e688b75a50ecf30bad364"
+}
+{
+    "Pseudo": "~q~love",
+    "Identifiers": "Discord ID:\ndiscord:426516694517809162\nXbox Live ID:\nxbl:2535430940613465\nMicrosoft Live ID:\nlive:1055521994746001\nFiveM ID:\nN/A\nLicence ID:\nlicense:75eaabce5653c7ae70216847b2eace1cf874820b"
+}
+{
+    "Pseudo": "⚠️I Love Alt Accounts⚠️ ",
+    "Identifiers": "Discord ID:\ndiscord:562456558722613251\nXbox Live ID:\nxbl:2535416333596346\nMicrosoft Live ID:\nlive:985154821188964\nFiveM ID:\nN/A\nLicence ID:\nlicense:b75b3d0cf24e4e70a222436763e912a6212a6757"
+}
+{
+    "Pseudo": "BIG SWEEP",
+    "Identifiers": "Discord ID:\ndiscord:1175590951289364593\nXbox Live ID:\nxbl:2535473047978206\nMicrosoft Live ID:\nlive:844428514681082\nFiveM ID:\nfivem:13597535\nLicence ID:\nlicense:a519e07b7e38ee44275089417b6ce91a30417980"
+}
+{
+    "Pseudo": "DUCKYSCRUBBS",
+    "Identifiers": "Discord ID:\ndiscord:1179330904913629256\nXbox Live ID:\nxbl:2535450720321299\nMicrosoft Live ID:\nlive:844427025415487\nFiveM ID:\nfivem:14857256\nLicence ID:\nlicense:6a252c14db895612443aea5fbd1c2db687b56c3c"
+}
+{
+    "Pseudo": "Nahv",
+    "Identifiers": "Discord ID:\ndiscord:1076663178412429342\nXbox Live ID:\nxbl:2535473009320515\nMicrosoft Live ID:\nlive:914798337761289\nFiveM ID:\nfivem:11716009\nLicence ID:\nlicense:3a83a6dc334385820e4c583fb2d854c6a953c5b0"
+}
+{
+    "Pseudo": "T1",
+    "Identifiers": "Discord ID:\ndiscord:437162916601659402\nXbox Live ID:\nxbl:2535468112639237\nMicrosoft Live ID:\nlive:914798128148590\nFiveM ID:\nfivem:13456926\nLicence ID:\nlicense:25799c6ac83d07c81b7396479b747561367e4eca"
+}
+{
+    "Pseudo": "kaytotrendy",
+    "Identifiers": "Discord ID:\ndiscord:788214792648654869\nXbox Live ID:\nxbl:2535410800142475\nMicrosoft Live ID:\nlive:985154846599933\nFiveM ID:\nfivem:10658960\nLicence ID:\nlicense:5659bc165443db520decfb9b50fc4b478fa7122f"
+}
+{
+    "Pseudo": "~bold~ ~l~B~l~R~l~A~l~Z~l~Y",
+    "Identifiers": "Discord ID:\ndiscord:1198216591381368873\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nN/A\nLicence ID:\nlicense:d22b4f01c78944127f3523a8757adfa9b647a654"
+}
+{
+    "Pseudo": "𝐓𝐨𝐤𝐲𝐨",
+    "Identifiers": "Discord ID:\ndiscord:1068189975692185610\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:7533702\nLicence ID:\nlicense:35cfba8e298ef5a5b288ab5fb34d20b69c7dc001"
+}
+{
+    "Pseudo": "dark",
+    "Identifiers": "Discord ID:\ndiscord:1108377736508100709\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:1055519995631225\nFiveM ID:\nfivem:12874226\nLicence ID:\nlicense:b08a90fb1c4bdc78b38c036dad3b3a8664ea640b"
+}
+{
+    "Pseudo": "DRT😈 Zilla",
+    "Identifiers": "Discord ID:\ndiscord:559855771240759298\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:985155910768480\nFiveM ID:\nfivem:13834961\nLicence ID:\nlicense:b424cf59a75e92ffb340ad3c080fae714545f9db"
+}
+{
+    "Pseudo": "lucky",
+    "Identifiers": "Discord ID:\ndiscord:772211460289069097\nXbox Live ID:\nxbl:2535411029070672\nMicrosoft Live ID:\nlive:1055519197205855\nFiveM ID:\nfivem:8488844\nLicence ID:\nlicense:75ca3ceb17bc94dc6178aa6eb591467380ffc9be"
+}
+{
+    "Pseudo": "BIG TONGA",
+    "Identifiers": "Discord ID:\ndiscord:1051909306498437140\nXbox Live ID:\nxbl:2535457574341591\nMicrosoft Live ID:\nlive:914801399421397\nFiveM ID:\nfivem:3283207\nLicence ID:\nlicense:53aebe7996d5d385ef902797e61115493574509f"
+}
+{
+    "Pseudo": "boogle",
+    "Identifiers": "Discord ID:\ndiscord:1188763202079686698\nXbox Live ID:\nxbl:2535449303161545\nMicrosoft Live ID:\nlive:985155764843598\nFiveM ID:\nfivem:12792221\nLicence ID:\nlicense:28e38ca223838be2cbf5d368bc28b6523b2b65c4"
+}
+{
+    "Pseudo": "YOOM_BRUIN",
+    "Identifiers": "Discord ID:\ndiscord:1092034795518824468\nXbox Live ID:\nxbl:2535467042720195\nMicrosoft Live ID:\nlive:914798486481435\nFiveM ID:\nfivem:5349555\nLicence ID:\nlicense:f0f78f618160ed2202a0e05db50a62e444f87010"
+}
+{
+    "Pseudo": "Peder on Rack",
+    "Identifiers": "Discord ID:\ndiscord:705601496368021585\nXbox Live ID:\nxbl:2535452661872710\nMicrosoft Live ID:\nlive:844426449872836\nFiveM ID:\nfivem:9766336\nLicence ID:\nlicense:aa86610f12e75e2e342aed976d9784df36a0f16a"
+}
+{
+    "Pseudo": "~l~~BOLD~RAGE EM DOWN WOCKY",
+    "Identifiers": "Discord ID:\ndiscord:697703510677913620\nXbox Live ID:\nxbl:2535451532297708\nMicrosoft Live ID:\nlive:914799742051961\nFiveM ID:\nfivem:14397474\nLicence ID:\nlicense:81f1d36f25723339e2b4c788b9cb264c8858a393"
+}
+{
+    "Pseudo": "~g~tk",
+    "Identifiers": "Discord ID:\ndiscord:1216839380715573279\nXbox Live ID:\nxbl:2535439298166751\nMicrosoft Live ID:\nlive:985155394988177\nFiveM ID:\nfivem:13955982\nLicence ID:\nlicense:ebc19134fd7a0779b11ec013b5636276bd22c9ed"
+}
+{
+    "Pseudo": "Realbleeds",
+    "Identifiers": "Discord ID:\ndiscord:287360181350694924\nXbox Live ID:\nxbl:2535405697155140\nMicrosoft Live ID:\nlive:914798773480479\nFiveM ID:\nfivem:10668375\nLicence ID:\nlicense:44d88c9a458f282382e89e9888432b7d964be084"
+}
+{
+    "Pseudo": "👑❄️FrittZz❄️👑",
+    "Identifiers": "Discord ID:\ndiscord:485289408782663682\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:1819087\nLicence ID:\nlicense:9af43b69f9903969172065d666e9ad7b92fed7fd"
+}
+{
+    "Pseudo": "t",
+    "Identifiers": "Discord ID:\ndiscord:928830505963647006\nXbox Live ID:\nxbl:2535407789441412\nMicrosoft Live ID:\nlive:1055519365432707\nFiveM ID:\nfivem:9597709\nLicence ID:\nlicense:6de32def3ce7a84670f56fd66fbc4a8321068f9a"
+}
+{
+    "Pseudo": "codeine",
+    "Identifiers": "Discord ID:\ndiscord:904841760910479371\nXbox Live ID:\nxbl:2535467694222647\nMicrosoft Live ID:\nlive:1899947317796499\nFiveM ID:\nN/A\nLicence ID:\nlicense:3354494fb425f15b3589ff8ba7fb07e183960142"
+}
+{
+    "Pseudo": "~italic~~q~b...",
+    "Identifiers": "Discord ID:\ndiscord:1239956002204418182\nXbox Live ID:\nxbl:2535426120981351\nMicrosoft Live ID:\nlive:914799475702295\nFiveM ID:\nfivem:13535751\nLicence ID:\nlicense:d58f70a0c1bbd84104bf8a44e4b4ff23bf2da4e9"
+}
+{
+    "Pseudo": "andrew tate",
+    "Identifiers": "Discord ID:\ndiscord:797933627576811611\nXbox Live ID:\nxbl:2535473746419157\nMicrosoft Live ID:\nlive:1829579064178347\nFiveM ID:\nfivem:10630192\nLicence ID:\nlicense:9aeae57dc082d698a42eb72ba501a82851e48551"
+}
+{
+    "Pseudo": "berdil",
+    "Identifiers": "Discord ID:\ndiscord:1087748221897556038\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nN/A\nLicence ID:\nlicense:b900bedff4f116b0b703ac152fc83f927a710614"
+}
+{
+    "Pseudo": "1997",
+    "Identifiers": "Discord ID:\ndiscord:1207840906540093520\nXbox Live ID:\nxbl:2535439581078791\nMicrosoft Live ID:\nlive:914799820619879\nFiveM ID:\nfivem:13523941\nLicence ID:\nlicense:aaddca4eb984642a73f4127a6acba27715a182fb"
+}
+{
+    "Pseudo": "~h~~g~Butch",
+    "Identifiers": "Discord ID:\ndiscord:1244473046866333696\nXbox Live ID:\nxbl:2535413206781413\nMicrosoft Live ID:\nlive:985154176836609\nFiveM ID:\nfivem:14093136\nLicence ID:\nlicense:6c01258005696556097a25df954ecc887071a147"
+}
+{
+    "Pseudo": "hvn",
+    "Identifiers": "Discord ID:\ndiscord:1152727862344945795\nXbox Live ID:\nxbl:2535421052645932\nMicrosoft Live ID:\nlive:914802245426426\nFiveM ID:\nfivem:12813069\nLicence ID:\nlicense:1a9b9c5f223265a926e6ef9de6e3e52e975d8006"
+}
+{
+    "Pseudo": "~h~~m~Jay",
+    "Identifiers": "Discord ID:\ndiscord:713681339370569820\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:844427032121916\nFiveM ID:\nfivem:11416975\nLicence ID:\nlicense:cc6f59ca62976a0d020b421d9f1eff2fddf127dc"
+}
+{
+    "Pseudo": " ~r~Melly~u~.gg~ ∑ ",
+    "Identifiers": "Discord ID:\ndiscord:692407159123607582\nXbox Live ID:\nxbl:2535424630261982\nMicrosoft Live ID:\nlive:1055519223352698\nFiveM ID:\nfivem:3004180\nLicence ID:\nlicense:f3b83bc7b7f785fee7bf2cc59ce4eb4304302c02"
+}
+{
+    "Pseudo": "fent",
+    "Identifiers": "Discord ID:\ndiscord:757384064788332594\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:1055520280838835\nFiveM ID:\nfivem:11823355\nLicence ID:\nlicense:853ef1b06af059542b480a9e9ddfacfc0dbee580"
+}
+{
+    "Pseudo": "Dunny",
+    "Identifiers": "Discord ID:\ndiscord:1095345400426274886\nXbox Live ID:\nxbl:2535430310578992\nMicrosoft Live ID:\nlive:844425120383199\nFiveM ID:\nfivem:14598249\nLicence ID:\nlicense:85f7004f09e9cd40929fdb35a521b1a09b5c0d16"
+}
+{
+    "Pseudo": "🐉 ~v~S ~t~A ~v~I ~t~N ~v~T ",
+    "Identifiers": "Discord ID:\ndiscord:235088299608375297\nXbox Live ID:\nxbl:2535406800711395\nMicrosoft Live ID:\nlive:914798024998499\nFiveM ID:\nfivem:1443129\nLicence ID:\nlicense:c68fd5bf5d59f3f9ae3c6f9157d7d153394d03f4"
+}
+{
+    "Pseudo": "youne",
+    "Identifiers": "Discord ID:\ndiscord:428385589088354304\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:844425197406636\nFiveM ID:\nfivem:12190490\nLicence ID:\nlicense:534afd37e264ecfbd0cead415b9ef64a3ff38929"
+}
+{
+    "Pseudo": "doahe",
+    "Identifiers": "Discord ID:\ndiscord:357635360970506241\nXbox Live ID:\nxbl:2535417444091659\nMicrosoft Live ID:\nlive:985154970713341\nFiveM ID:\nfivem:3885635\nLicence ID:\nlicense:8dad06660115fdb2d9981d0049a978f3adc69f05"
+}
+{
+    "Pseudo": "sully457",
+    "Identifiers": "Discord ID:\ndiscord:1149429311351308409\nXbox Live ID:\nxbl:2535444600943845\nMicrosoft Live ID:\nlive:844426745808609\nFiveM ID:\nfivem:13916605\nLicence ID:\nlicense:68774e65be171924283a03480138e17dbfb80182"
+}
+{
+    "Pseudo": "e b k",
+    "Identifiers": "Discord ID:\ndiscord:579746090556063802\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:8649165\nLicence ID:\nlicense:850e8eebbe598c4bf314c17321ca226d1b984caf"
+}
+{
+    "Pseudo": "~v~xtrnal | ssbh | jibreel k",
+    "Identifiers": "Discord ID:\ndiscord:1236059045325045781\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nfivem:14761876\nLicence ID:\nlicense:15870bb303da0e3215b1bcb8dfc71ae0cd32de42"
+}
+{
+    "Pseudo": "jett../anonymous SON🩸",
+    "Identifiers": "Discord ID:\ndiscord:1272073706134573117\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:1759219518640827\nFiveM ID:\nfivem:14869012\nLicence ID:\nlicense:db880222c358985aabc5d201f55efb70025af5ba"
+}
+{
+    "Pseudo": "᲼᲼᲼᲼᲼᲼᲼1",
+    "Identifiers": "Discord ID:\ndiscord:1260030511670104148\nXbox Live ID:\nxbl:2535437956987133\nMicrosoft Live ID:\nlive:914799896788700\nFiveM ID:\nN/A\nLicence ID:\nlicense:701c8d9b7d4db7cec33c71f7851d8640df6f6612"
+}
+{
+    "Pseudo": "MIGO",
+    "Identifiers": "Discord ID:\ndiscord:769817422437679134\nXbox Live ID:\nxbl:2535469581419501\nMicrosoft Live ID:\nlive:914798366288889\nFiveM ID:\nfivem:12168423\nLicence ID:\nlicense:59de9450b1321405e93538c280354cac1388b9bf"
+}
+{
+    "Pseudo": "brys shmurda",
+    "Identifiers": "Discord ID:\ndiscord:1241489499326910558\nXbox Live ID:\nxbl:2535444847364857\nMicrosoft Live ID:\nlive:914799507030622\nFiveM ID:\nfivem:10837348\nLicence ID:\nlicense:0e91605dc7bed0979cd8f3fdf6ea36516a006a37"
+}
+{
+    "Pseudo": "Drillzz",
+    "Identifiers": "Discord ID:\ndiscord:558868562899632148\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nN/A\nFiveM ID:\nN/A\nLicence ID:\nlicense:09a1ec8f59801e55ee9df15b417732ab2fd9241f"
+}
+{
+    "Pseudo": "Alex N.",
+    "Identifiers": "Discord ID:\ndiscord:971548528566472714\nXbox Live ID:\nN/A\nMicrosoft Live ID:\nlive:1899944234646501\nFiveM ID:\nfivem:12699300\nLicence ID:\nlicense:8c2f8ef887cd1450499d1e218141e16e74760bc3"
+}
+{
+    "Pseudo": "tzan",
+    "Identifiers": "Discord ID:\ndiscord:1012336058643513425\nXbox Live ID:\nxbl:2535467847933088\nMicrosoft Live ID:\nlive:985155032907042\nFiveM ID:\nfivem:14917845\nLicence ID:\nlicense:b5247cfc41b73c909e36f4578a513c551a15b3a0"
+}
