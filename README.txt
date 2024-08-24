@@ -10,7 +10,7 @@
  |___|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|___| 
 (_____)                                   (_____)
 
-V2.1
+V2.2
 
 
 Même chose que l'ancien, mais maintenant il peut aussi lire les .Sql et .Csv.
