@@ -1,0 +1,35 @@
+Changelog
+[2.4] - 2024-08-26
+Added
+
+    Barre de progression
+
+Changed
+
+    Gestion des Threads : je use QApplication.processEvents() pour mettre à jour le frontend en "temps réel" sans bloquer le thread principal.
+    Affichage des erreurs : Affichage amélioré des erreurs de lecture et des erreurs de traitement des fichiers.
+    Limitation du nombre de threads : Ajustement du nombre maximum de threads utilisés pour le traitement des fichiers afin d'optimiser les performances celon le pc.
+
+Fixed
+
+    Problèmes de barre de progression : Correction des problèmes d'affichage de la progression un peux bug...
+    Gestion des encodages : Amélioration de la gestion des erreurs d'encodage (encodings = ['utf-8', 'latin-1'])
+
+
+[2.2] - 2024-08-26
+Change
+
+    Full GUI rework
+
+
+[2.1] - 2024-07-23
+Fixed
+
+    Petit fix de perf.
+
+
+[2.0] - 2024-07-21
+Added
+
+    Interface Utilisateur : Création du frontend bien plus bo ;)
+    Recherche dans les fichiers : Fonctionnalité de rechercher dans les fichiers .txt, .sql, et .csv.
