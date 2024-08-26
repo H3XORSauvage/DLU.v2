@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["steam:11000014ec5721d", "license:242001d8ce912296b453d0f1c199da117a011e8e", "xbl:2535412997829283", "live:844426229705444", "fivem:6930295", "license2:2c32ab45f00e042dc035b5239468eef946cc4071"], "name": "cmoirmd", "ping": 17}

@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 2, "identifiers": ["steam:11000014b21f965", "license:94afa9e3312bebc82f4b38246dff84c3a429495e", "discord:844619949607616554", "fivem:5489016", "license2:94afa9e3312bebc82f4b38246dff84c3a429495e"], "name": "[AstralRP] Léonard Latino", "ping": 35}
