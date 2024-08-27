@@ -13,7 +13,7 @@
 V2.4
 
 
-Même chose que l'ancien, mais maintenant il peut aussi lire les .Sql et .Csv.
+Regarde le change log.
 
 va lire le DLU v1 pour les info de type "how to use" et aussi pour plus d'infos discord: enfant2pute
 
