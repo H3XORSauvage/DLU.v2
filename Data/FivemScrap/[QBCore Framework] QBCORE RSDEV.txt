@@ -1,1 +1,0 @@
-{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:fbe56895c1b75bfaaabf02687e96abf166335349", "discord:219896064088604673", "fivem:665934", "license2:fbe56895c1b75bfaaabf02687e96abf166335349"], "name": "racem", "ping": 25}
