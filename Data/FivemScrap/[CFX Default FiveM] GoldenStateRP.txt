@@ -1,1 +1,0 @@
-{"endpoint": "127.0.0.1:1234", "id": 2, "identifiers": ["license:cdd6ed4b7675f22f101a5aec935d53842089ea2b", "xbl:2535406869685358", "live:1055518633054678", "discord:280031672358141962", "fivem:1742927", "license2:cdd6ed4b7675f22f101a5aec935d53842089ea2b"], "name": "Axolotl", "ping": 38}
